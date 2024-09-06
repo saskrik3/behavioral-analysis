@@ -1,0 +1,361 @@
+BlockNumber,BlockType,TrialNum,Stim,Response,ResponseTime,Category,Match,Type
+0,life-me,12,mine,1,1048,Me,1,1
+0,life-me,13,my,1,1985,Me,1,1
+0,life-me,14,breathing,1,1523,Life,1,1
+0,life-me,15,suicide,1,1064,Death,0,1
+0,life-me,16,survive,1,1432,Life,1,1
+0,life-me,17,them,1,932,Not me,0,1
+0,life-me,18,thrive,1,939,Life,1,1
+0,life-me,19,I,1,898,Me,1,1
+0,life-me,20,myself,1,831,Me,1,1
+0,life-me,21,deceased,1,905,Death,0,1
+0,life-me,22,alive,1,828,Life,1,1
+0,life-me,23,theirs,1,931,Not me,0,1
+0,life-me,24,they,1,887,Not me,0,1
+0,life-me,25,self,1,956,Me,1,1
+0,life-me,26,die,1,907,Death,0,1
+0,life-me,27,live,1,914,Life,1,1
+0,life-me,28,lifeless,1,905,Death,0,1
+0,life-me,29,their,1,1098,Not me,0,1
+0,life-me,30,other,1,797,Not me,0,1
+0,life-me,31,funeral,1,1005,Death,0,1
+1,death-me,32,other,1,1789,Not me,0,2
+1,death-me,33,I,1,782,Me,1,2
+1,death-me,34,they,1,857,Not me,0,2
+1,death-me,35,funeral,1,1231,Death,1,2
+1,death-me,36,survive,1,881,Life,0,2
+1,death-me,37,deceased,1,776,Death,1,2
+1,death-me,38,self,1,1299,Me,1,2
+1,death-me,39,die,1,1023,Death,1,2
+1,death-me,40,suicide,1,1316,Death,1,2
+1,death-me,41,thrive,1,738,Life,0,2
+1,death-me,42,lifeless,1,981,Death,1,2
+1,death-me,43,live,1,1040,Life,0,2
+1,death-me,44,myself,1,836,Me,1,2
+1,death-me,45,their,1,1407,Not me,0,2
+1,death-me,46,my,1,1757,Me,1,2
+1,death-me,47,them,1,1264,Not me,0,2
+1,death-me,48,breathing,1,823,Life,0,2
+1,death-me,49,alive,1,762,Life,0,2
+1,death-me,50,theirs,1,1191,Not me,0,2
+1,death-me,51,mine,1,589,Me,1,2
+2,life-me,52,I,1,1314,Me,1,1
+2,life-me,53,my,1,797,Me,1,1
+2,life-me,54,mine,1,774,Me,1,1
+2,life-me,55,deceased,1,788,Death,0,1
+2,life-me,56,them,1,813,Not me,0,1
+2,life-me,57,alive,1,798,Life,1,1
+2,life-me,58,other,1,858,Not me,0,1
+2,life-me,59,lifeless,1,973,Death,0,1
+2,life-me,60,self,1,714,Me,1,1
+2,life-me,61,they,1,922,Not me,0,1
+2,life-me,62,live,1,762,Life,1,1
+2,life-me,63,suicide,1,781,Death,0,1
+2,life-me,64,myself,1,831,Me,1,1
+2,life-me,65,breathing,1,937,Life,1,1
+2,life-me,66,theirs,1,731,Not me,0,1
+2,life-me,67,thrive,1,1056,Life,1,1
+2,life-me,68,their,1,839,Not me,0,1
+2,life-me,69,survive,1,747,Life,1,1
+2,life-me,70,funeral,1,865,Death,0,1
+2,life-me,71,die,1,998,Death,0,1
+3,death-me,72,thrive,1,1390,Life,0,2
+3,death-me,73,lifeless,1,829,Death,1,2
+3,death-me,74,they,1,1022,Not me,0,2
+3,death-me,75,their,1,706,Not me,0,2
+3,death-me,76,deceased,1,873,Death,1,2
+3,death-me,77,myself,1,1031,Me,1,2
+3,death-me,78,live,1,882,Life,0,2
+3,death-me,79,die,1,731,Death,1,2
+3,death-me,80,I,1,839,Me,1,2
+3,death-me,81,mine,1,621,Me,1,2
+3,death-me,82,them,1,756,Not me,0,2
+3,death-me,83,theirs,1,781,Not me,0,2
+3,death-me,84,other,1,731,Not me,0,2
+3,death-me,85,my,1,797,Me,1,2
+3,death-me,86,funeral,1,782,Death,1,2
+3,death-me,87,self,1,906,Me,1,2
+3,death-me,88,alive,1,888,Life,0,2
+3,death-me,89,breathing,1,715,Life,0,2
+3,death-me,90,suicide,1,756,Death,1,2
+3,death-me,91,survive,1,856,Life,0,2
+4,life-me,92,lifeless,1,1180,Death,0,1
+4,life-me,93,survive,1,690,Life,1,1
+4,life-me,94,my,1,615,Me,1,1
+4,life-me,95,funeral,1,658,Death,0,1
+4,life-me,96,die,1,641,Death,0,1
+4,life-me,97,myself,1,598,Me,1,1
+4,life-me,98,I,1,607,Me,1,1
+4,life-me,99,mine,1,758,Me,1,1
+4,life-me,100,breathing,1,727,Life,1,1
+4,life-me,101,alive,1,855,Life,1,1
+4,life-me,102,live,1,690,Life,1,1
+4,life-me,103,thrive,1,724,Life,1,1
+4,life-me,104,them,1,838,Not me,0,1
+4,life-me,105,suicide,1,689,Death,0,1
+4,life-me,106,self,1,647,Me,1,1
+4,life-me,107,other,1,897,Not me,0,1
+4,life-me,108,deceased,1,1281,Death,0,1
+4,life-me,109,their,1,731,Not me,0,1
+4,life-me,110,they,1,631,Not me,0,1
+4,life-me,111,theirs,1,590,Not me,0,1
+5,death-me,112,thrive,1,1672,Life,0,2
+5,death-me,113,lifeless,1,705,Death,1,2
+5,death-me,114,self,1,815,Me,1,2
+5,death-me,115,breathing,1,665,Life,0,2
+5,death-me,116,die,1,648,Death,1,2
+5,death-me,117,other,1,814,Not me,0,2
+5,death-me,118,survive,1,715,Life,0,2
+5,death-me,119,alive,1,746,Life,0,2
+5,death-me,120,they,1,777,Not me,0,2
+5,death-me,121,myself,1,698,Me,1,2
+5,death-me,122,mine,1,674,Me,1,2
+5,death-me,123,their,1,1041,Not me,0,2
+5,death-me,124,suicide,1,706,Death,1,2
+5,death-me,125,them,1,739,Not me,0,2
+5,death-me,126,live,1,739,Life,0,2
+5,death-me,127,my,1,640,Me,1,2
+5,death-me,128,theirs,1,665,Not me,0,2
+5,death-me,129,deceased,1,732,Death,1,2
+5,death-me,130,I,1,789,Me,1,2
+5,death-me,131,funeral,1,750,Death,1,2
+6,life-me,132,thrive,1,1231,Life,1,1
+6,life-me,133,self,1,823,Me,1,1
+6,life-me,134,funeral,1,597,Death,0,1
+6,life-me,135,theirs,1,615,Not me,0,1
+6,life-me,136,die,1,590,Death,0,1
+6,life-me,137,alive,1,668,Life,1,1
+6,life-me,138,my,1,615,Me,1,1
+6,life-me,139,them,1,607,Not me,0,1
+6,life-me,140,lifeless,1,748,Death,0,1
+6,life-me,141,live,1,845,Life,1,1
+6,life-me,142,their,1,717,Not me,0,1
+6,life-me,143,mine,1,647,Me,1,1
+6,life-me,144,I,1,655,Me,1,1
+6,life-me,145,survive,1,707,Life,1,1
+6,life-me,146,other,1,831,Not me,0,1
+6,life-me,147,suicide,1,733,Death,0,1
+6,life-me,148,deceased,1,542,Death,0,1
+6,life-me,149,they,1,668,Not me,0,1
+6,life-me,150,myself,1,714,Me,1,1
+6,life-me,151,breathing,1,764,Life,1,1
+7,death-me,152,funeral,1,1144,Death,1,2
+7,death-me,153,other,1,646,Not me,0,2
+7,death-me,154,my,1,605,Me,1,2
+7,death-me,155,lifeless,1,782,Death,1,2
+7,death-me,156,them,1,650,Not me,0,2
+7,death-me,157,live,1,688,Life,0,2
+7,death-me,158,alive,1,841,Life,0,2
+7,death-me,159,self,1,866,Me,1,2
+7,death-me,160,survive,1,680,Life,0,2
+7,death-me,161,breathing,1,655,Life,0,2
+7,death-me,162,die,1,706,Death,1,2
+7,death-me,163,theirs,1,634,Not me,0,2
+7,death-me,164,their,1,698,Not me,0,2
+7,death-me,165,thrive,1,673,Life,0,2
+7,death-me,166,suicide,1,664,Death,1,2
+7,death-me,167,they,1,642,Not me,0,2
+7,death-me,168,myself,1,674,Me,1,2
+7,death-me,169,mine,1,575,Me,1,2
+7,death-me,170,deceased,1,715,Death,1,2
+7,death-me,171,I,1,698,Me,1,2
+8,life-me,172,alive,1,1228,Life,1,1
+8,life-me,173,they,1,610,Not me,0,1
+8,life-me,174,my,1,490,Me,1,1
+8,life-me,175,I,1,573,Me,1,1
+8,life-me,176,them,1,678,Not me,0,1
+8,life-me,177,their,1,723,Not me,0,1
+8,life-me,178,theirs,1,589,Not me,0,1
+8,life-me,179,self,1,667,Me,1,1
+8,life-me,180,breathing,1,707,Life,1,1
+8,life-me,181,myself,1,682,Me,1,1
+8,life-me,182,die,1,564,Death,0,1
+8,life-me,183,live,1,823,Life,1,1
+8,life-me,184,deceased,1,523,Death,0,1
+8,life-me,185,thrive,1,590,Life,1,1
+8,life-me,186,lifeless,1,682,Death,0,1
+8,life-me,187,mine,1,591,Me,1,1
+8,life-me,188,funeral,1,747,Death,0,1
+8,life-me,189,other,1,657,Not me,0,1
+8,life-me,190,survive,1,617,Life,1,1
+8,life-me,191,suicide,1,647,Death,0,1
+9,death-me,192,I,1,1449,Me,1,2
+9,death-me,193,funeral,1,633,Death,1,2
+9,death-me,194,theirs,1,689,Not me,0,2
+9,death-me,195,die,1,639,Death,1,2
+9,death-me,196,them,1,581,Not me,0,2
+9,death-me,197,breathing,1,764,Life,0,2
+9,death-me,198,lifeless,1,775,Death,1,2
+9,death-me,199,thrive,1,705,Life,0,2
+9,death-me,200,myself,1,664,Me,1,2
+9,death-me,201,self,1,765,Me,1,2
+9,death-me,202,mine,1,613,Me,1,2
+9,death-me,203,my,1,632,Me,1,2
+9,death-me,204,their,1,665,Not me,0,2
+9,death-me,205,other,1,674,Not me,0,2
+9,death-me,206,survive,1,598,Life,0,2
+9,death-me,207,alive,1,589,Life,0,2
+9,death-me,208,suicide,1,607,Death,1,2
+9,death-me,209,live,1,673,Life,0,2
+9,death-me,210,they,1,580,Not me,0,2
+9,death-me,211,deceased,1,664,Death,1,2
+10,life-me,212,lifeless,1,1521,Death,0,1
+10,life-me,213,I,1,548,Me,1,1
+10,life-me,214,theirs,1,715,Not me,0,1
+10,life-me,215,myself,1,532,Me,1,1
+10,life-me,216,mine,1,739,Me,1,1
+10,life-me,217,my,1,588,Me,1,1
+10,life-me,218,their,1,704,Not me,0,1
+10,life-me,219,breathing,1,707,Life,1,1
+10,life-me,220,self,1,673,Me,1,1
+10,life-me,221,deceased,1,605,Death,0,1
+10,life-me,222,live,1,656,Life,1,1
+10,life-me,223,funeral,1,1131,Death,0,1
+10,life-me,224,survive,1,548,Life,1,1
+10,life-me,225,other,1,565,Not me,0,1
+10,life-me,226,thrive,1,614,Life,1,1
+10,life-me,227,them,1,656,Not me,0,1
+10,life-me,228,alive,1,648,Life,1,1
+10,life-me,229,suicide,1,565,Death,0,1
+10,life-me,230,they,1,621,Not me,0,1
+10,life-me,231,die,1,581,Death,0,1
+11,death-me,232,alive,1,1838,Life,0,2
+11,death-me,233,die,1,576,Death,1,2
+11,death-me,234,thrive,1,757,Life,0,2
+11,death-me,235,they,1,873,Not me,0,2
+11,death-me,236,my,1,706,Me,1,2
+11,death-me,237,live,1,1131,Life,0,2
+11,death-me,238,their,1,620,Not me,0,2
+11,death-me,239,deceased,1,797,Death,1,2
+11,death-me,240,funeral,1,756,Death,1,2
+11,death-me,241,theirs,1,781,Not me,0,2
+11,death-me,242,suicide,1,673,Death,1,2
+11,death-me,243,lifeless,1,873,Death,1,2
+11,death-me,244,them,1,831,Not me,0,2
+11,death-me,245,breathing,1,931,Life,0,2
+11,death-me,246,myself,1,577,Me,1,2
+11,death-me,247,I,1,675,Me,1,2
+11,death-me,248,mine,1,680,Me,1,2
+11,death-me,249,other,1,789,Not me,0,2
+11,death-me,250,survive,1,772,Life,0,2
+11,death-me,251,self,1,615,Me,1,2
+12,life-me,252,lifeless,1,1231,Death,0,1
+12,life-me,253,my,1,573,Me,1,1
+12,life-me,254,them,1,597,Not me,0,1
+12,life-me,255,breathing,1,689,Life,1,1
+12,life-me,256,self,1,748,Me,1,1
+12,life-me,257,funeral,1,607,Death,0,1
+12,life-me,258,die,1,678,Death,0,1
+12,life-me,259,survive,1,724,Life,1,1
+12,life-me,260,theirs,1,590,Not me,0,1
+12,life-me,261,deceased,1,723,Death,0,1
+12,life-me,262,live,1,556,Life,1,1
+12,life-me,263,they,1,614,Not me,0,1
+12,life-me,264,I,1,574,Me,1,1
+12,life-me,265,their,1,689,Not me,0,1
+12,life-me,266,alive,1,597,Life,1,1
+12,life-me,267,thrive,1,597,Life,1,1
+12,life-me,268,other,1,599,Not me,0,1
+12,life-me,269,myself,1,723,Me,1,1
+12,life-me,270,suicide,1,632,Death,0,1
+12,life-me,271,mine,1,641,Me,1,1
+13,death-me,272,breathing,1,982,Life,0,2
+13,death-me,273,their,1,590,Not me,0,2
+13,death-me,274,myself,1,590,Me,1,2
+13,death-me,275,theirs,1,668,Not me,0,2
+13,death-me,276,live,1,582,Life,0,2
+13,death-me,277,them,1,598,Not me,0,2
+13,death-me,278,thrive,1,640,Life,0,2
+13,death-me,279,my,1,582,Me,1,2
+13,death-me,280,deceased,1,649,Death,1,2
+13,death-me,281,I,1,671,Me,1,2
+13,death-me,282,die,1,574,Death,1,2
+13,death-me,283,other,1,698,Not me,0,2
+13,death-me,284,survive,1,721,Life,0,2
+13,death-me,285,self,1,898,Me,1,2
+13,death-me,286,they,1,590,Not me,0,2
+13,death-me,287,alive,1,872,Life,0,2
+13,death-me,288,funeral,1,640,Death,1,2
+13,death-me,289,lifeless,1,963,Death,1,2
+13,death-me,290,suicide,1,697,Death,1,2
+13,death-me,291,mine,1,673,Me,1,2
+14,life-me,292,thrive,1,1357,Life,1,1
+14,life-me,293,my,1,548,Me,1,1
+14,life-me,294,lifeless,1,715,Death,0,1
+14,life-me,295,deceased,1,481,Death,0,1
+14,life-me,296,die,1,624,Death,0,1
+14,life-me,297,their,1,590,Not me,0,1
+14,life-me,298,self,1,680,Me,1,1
+14,life-me,299,funeral,1,990,Death,0,1
+14,life-me,300,suicide,1,573,Death,0,1
+14,life-me,301,other,1,630,Not me,0,1
+14,life-me,302,myself,1,664,Me,1,1
+14,life-me,303,alive,1,692,Life,1,1
+14,life-me,304,survive,1,614,Life,1,1
+14,life-me,305,I,1,598,Me,1,1
+14,life-me,306,they,1,573,Not me,0,1
+14,life-me,307,them,1,589,Not me,0,1
+14,life-me,308,theirs,1,531,Not me,0,1
+14,life-me,309,breathing,1,680,Life,1,1
+14,life-me,310,mine,1,581,Me,1,1
+14,life-me,311,live,1,1089,Life,1,1
+15,death-me,312,breathing,1,1777,Life,0,2
+15,death-me,313,alive,1,556,Life,0,2
+15,death-me,314,deceased,1,523,Death,1,2
+15,death-me,315,funeral,1,847,Death,1,2
+15,death-me,316,thrive,1,622,Life,0,2
+15,death-me,317,other,1,523,Not me,0,2
+15,death-me,318,suicide,1,587,Death,1,2
+15,death-me,319,myself,1,631,Me,1,2
+15,death-me,320,survive,1,580,Life,0,2
+15,death-me,321,they,1,682,Not me,0,2
+15,death-me,322,die,1,541,Death,1,2
+15,death-me,323,mine,1,457,Me,1,2
+15,death-me,324,I,1,652,Me,1,2
+15,death-me,325,my,1,590,Me,1,2
+15,death-me,326,self,1,607,Me,1,2
+15,death-me,327,lifeless,1,661,Death,1,2
+15,death-me,328,their,1,589,Not me,0,2
+15,death-me,329,live,1,714,Life,0,2
+15,death-me,330,them,1,689,Not me,0,2
+15,death-me,331,theirs,1,515,Not me,0,2
+16,life-me,332,lifeless,1,1489,Death,0,1
+16,life-me,333,survive,1,589,Life,1,1
+16,life-me,334,thrive,1,605,Life,1,1
+16,life-me,335,them,1,615,Not me,0,1
+16,life-me,336,my,1,648,Me,1,1
+16,life-me,337,I,1,580,Me,1,1
+16,life-me,338,alive,1,722,Life,1,1
+16,life-me,339,suicide,1,539,Death,0,1
+16,life-me,340,die,1,564,Death,0,1
+16,life-me,341,self,1,666,Me,1,1
+16,life-me,342,live,1,656,Life,1,1
+16,life-me,343,their,1,668,Not me,0,1
+16,life-me,344,mine,1,790,Me,1,1
+16,life-me,345,breathing,1,847,Life,1,1
+16,life-me,346,they,1,613,Not me,0,1
+16,life-me,347,myself,1,605,Me,1,1
+16,life-me,348,other,1,557,Not me,0,1
+16,life-me,349,funeral,1,693,Death,0,1
+16,life-me,350,theirs,1,522,Not me,0,1
+16,life-me,351,deceased,1,598,Death,0,1
+17,death-me,352,other,1,1156,Not me,0,2
+17,death-me,353,mine,1,581,Me,1,2
+17,death-me,354,I,1,581,Me,1,2
+17,death-me,355,deceased,1,668,Death,1,2
+17,death-me,356,myself,1,682,Me,1,2
+17,death-me,357,suicide,1,597,Death,1,2
+17,death-me,358,live,1,646,Life,0,2
+17,death-me,359,theirs,1,514,Not me,0,2
+17,death-me,360,them,1,569,Not me,0,2
+17,death-me,361,alive,1,771,Life,0,2
+17,death-me,362,they,1,612,Not me,0,2
+17,death-me,363,my,1,814,Me,1,2
+17,death-me,364,lifeless,1,651,Death,1,2
+17,death-me,365,die,1,497,Death,1,2
+17,death-me,366,survive,1,614,Life,0,2
+17,death-me,367,thrive,1,767,Life,0,2
+17,death-me,368,funeral,1,614,Death,1,2
+17,death-me,369,breathing,1,579,Life,0,2
+17,death-me,370,their,1,615,Not me,0,2
+17,death-me,371,self,1,481,Me,1,2
